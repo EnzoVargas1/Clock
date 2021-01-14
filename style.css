@@ -1,0 +1,32 @@
+body{
+	background-color: #2c3531;
+}
+
+.box_{
+    
+    position: fixed;
+    resize: both;
+  overflow: auto;
+	background-color: #116466;
+	border: 5px solid #d9b08c;
+	border-radius: 18px;
+	margin-right: 375px;
+	margin-left: 375px;
+	margin-top: 225px;
+	margin-bottom: 225px;
+    
+    padding: 150px 160px 150px 150px;
+    font-family: Quicksand;
+    font-size: xx-large;
+    font-weight: lighter;
+    
+}
+
+h1{
+    position: relative;
+	color:#d1e8e2;
+
+}
+
+
+
